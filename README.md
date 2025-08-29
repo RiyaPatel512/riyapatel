@@ -21,7 +21,7 @@
 - Learning advanced **software engineering concepts**  
 
 ✨ **Fun Fact**  
-> I believe in learning by doing, and coding is my creative canvas!
+> *I believe in learning by doing, and coding is my creative canvas!*
 
 📫 **Connect with Me**  
 - riyapate319@gmail.com
